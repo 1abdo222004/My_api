@@ -1,0 +1,4 @@
+requests 
+werkzeug
+flask
+nsfw_detector
